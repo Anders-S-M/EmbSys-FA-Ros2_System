@@ -1,0 +1,3 @@
+bool data # For FSM enabling / disabling
+---
+bool success   # indicate successful run of triggered service
